@@ -25,6 +25,8 @@ Ensure all necessary files are in the project directory before compiling.
 To compile the project, simply download it, navigate to the project directory, and use:
 
 ```bash
+git clone https://github.com/JiacoDev/BW-Mandelbrot-Fractal.git ./Mandelbrot-frac-image-gen
+cd ./Mandelbrot-frac-image-gen
 make
 ```
 
